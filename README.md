@@ -11,6 +11,7 @@ I'm currently focused on strengthening my backend skills and building projects a
 ## What I'm Working On
 
 Grid World Search
+
 My primary algorithms and performance-engineering project, implementing BFS, DFS, Dijkstra's, and A* with benchmarking and automated testing.
 
 Violin Practice App — V1
