@@ -55,7 +55,7 @@ pytest · Git · GitHub · REST APIs
 
 ### [Grid World Search](https://github.com/DaveBunyan1/grid-world-search)
 Pathfinding visualizer and benchmarking suite (BFS, DFS, Dijkstra, A*) with performance metrics and automated tests.  
-`Python` · `Algorithms` · `pytest` · `Performance Analysis`
+`Python` · `Algorithms` · `pytest` · `Performance Analysis` · `TypeScript` · `Next.js`
 
 ### [Violin Practice App](https://github.com/DaveBunyan1/violin-practice-app) *(V1)*
 Personal practice tracker with real-time audio processing, domain modeling, and performance telemetry.  
