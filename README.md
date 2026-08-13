@@ -15,12 +15,15 @@ Grid World Search
 My primary algorithms and performance-engineering project, implementing BFS, DFS, Dijkstra's, and A* with benchmarking and automated testing.
 
 Violin Practice App — V1
+
 My first iteration of a personal application for violin practice. This project gave me hands-on experience with application architecture, database design, real-time audio processing, and performance telemetry.
 
 Chinese Practice App — Applying Lessons Learned
+
 I'm using lessons from the first version of the violin app to design the Chinese practice application with a stronger domain model, clearer separation of concerns, and more deliberate architecture.
 
 Violin Practice App — V2
+
 The next iteration of the violin application will incorporate architectural and engineering lessons from the Chinese practice app, allowing me to revisit earlier design decisions and improve the original system.
 
 ## Technologies
